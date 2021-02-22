@@ -1,1 +1,1 @@
-# lab_2 komarov  
+# lab_2 Komarov Mikhail 
