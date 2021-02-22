@@ -1,1 +1,1 @@
-# lab_2 _Komarov
+# lab_2
