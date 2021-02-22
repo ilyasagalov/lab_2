@@ -1,1 +1,1 @@
-# lab_2 Sagalov
+# lab_2 Sagalov_ERROR
